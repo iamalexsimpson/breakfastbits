@@ -3,7 +3,6 @@
 
 ### Links
 www.linkedin.com/in/alex-simpson-54b64a200/ - My Profile
-[LinkedIn](linkedin.com)
 
 ![Octocat Homer Edition](https://octodex.github.com/images/homercat.png)
 
@@ -20,13 +19,13 @@ www.linkedin.com/in/alex-simpson-54b64a200/ - My Profile
 - [ ] Start the report
 
 ## Code Snippet
-cout << "Would you like another go? \nY > Yes       N > No" << endl;
-    cin >> playerChoice;
+  cout << "Would you like another go? \nY > Yes       N > No" << endl;
+      cin >> playerChoice;
 
-    if (playerChoice == "Y")
-        goto Begin;
-    else
-        cout << "Goodbye" << endl;
+      if (playerChoice == "Y")
+          goto Begin;
+      else
+          cout << "Goodbye" << endl;
        
 ## Emojis
 :student: :sloth: :floppy_disk:
